@@ -5,8 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Mosaico"
         mc:Ignorable="d"
-        Title="MainWindow" Height="665" Width="675" Icon="Imagenes/mosaico.ico"
-        MinHeight="470" MinWidth="450">
+        Title="MainWindow"
+        Height="665"
+        Width="675"
+        Icon="Imagenes/mosaico.ico"
+        MinHeight="470"
+        MinWidth="450">
     <DockPanel>
         <TextBlock DockPanel.Dock="Top"
                    Background="Blue"
@@ -14,29 +18,24 @@
         <TextBlock DockPanel.Dock="Left"
                    Width="100"
                    Background="Blue" />
-
         <TextBlock DockPanel.Dock="Bottom"
                    Height="100"
                    Background="Green" />
         <TextBlock DockPanel.Dock="Right"
                    Width="100"
                    Background="Green" />
-
         <TextBlock DockPanel.Dock="Bottom"
                    Height="100"
                    Background="Red" />
         <TextBlock DockPanel.Dock="Left"
                    Width="100"
                    Background="Red" />
-
         <TextBlock DockPanel.Dock="Top"
                    Height="100"
                    Background="Fuchsia" />
         <TextBlock DockPanel.Dock="Right"
                    Width="100"
                    Background="Fuchsia" />
-
-        <TextBlock Background="Black" 
-                    />
+        <TextBlock Background="Black" />
     </DockPanel>
 </Window>
