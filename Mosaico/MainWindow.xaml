@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Mosaico"
         mc:Ignorable="d"
-        Title="MainWindow"
+        Title="Mosaico"
         Height="665"
         Width="675"
         Icon="Imagenes/mosaico.ico"
